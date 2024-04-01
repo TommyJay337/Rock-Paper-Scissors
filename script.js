@@ -7,8 +7,6 @@ function getComputerChoice() {
 
 }
 
-//console.log(getComputerChoice());
-
 let playerScore = 0;
 let computerScore = 0;
 let roundWinner = '';
